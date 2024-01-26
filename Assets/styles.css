@@ -1,10 +1,8 @@
-*{
-  background-color: rgb(194, 164, 125);
-}
+
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    background-color: rgb(194, 164, 125);
+    background-color: darkgrey;
   }
   
   textarea {
